@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Melvin-Manzi
-     I’m looking to collaborate on open-source and active projects
 - 📫 How to reach me manzimelvin7@gmail.com
 - 😄 Pronouns: He/Him
 
