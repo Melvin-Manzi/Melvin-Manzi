@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Melvin-Manzi
-- 📫 How to reach me manzimelvin7@gmail.com
-- 😄 Pronouns: He/Him
+-   Hi, I’m @Melvin-Manzi
+-   Email: manzimelvin7@gmail.com
+-   Pronouns: He/Him
 
 
 <!---
